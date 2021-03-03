@@ -24,6 +24,8 @@ urls:
       url: /about/
     - text: Category
       url: /category/start
+    - text: Comment-policy
+      url: /comment-policy
     - text: XML Feed
       url: /feed.xml
 

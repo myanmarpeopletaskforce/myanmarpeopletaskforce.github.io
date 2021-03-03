@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Mar03] Fallen Heroes"
+title:  "Fallen Heroes"
 date:   2021-03-03 +0800
 categories: [fallen-heroes, summary]
 ---
