@@ -4,6 +4,7 @@ author: Myanmar People Taskforce
 github: https://github.com/myanmarpeopletaskforce
 about: 
 disqus:
+  comments: true
   shortname: mmcoup_yellowpages
 google_analytics: G-5M4F3VS31D
 
