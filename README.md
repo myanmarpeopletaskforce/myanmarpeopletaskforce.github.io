@@ -68,4 +68,4 @@ bundle exec jekyll serve
 
 ### Contributing
 
-Feel free to [open a bug](https://github.com/myanmarpeopletaskforce/myanmarpeopletaskforce.guithub.io/issuess) or [contribute to code](https://github.com/myanmarpeopletaskforce/myanmarpeopletaskforce.guithub.io/pulls)!
+Feel free to [open a bug](https://github.com/myanmarpeopletaskforce/myanmarpeopletaskforce.guithub.io/issues) or [contribute to code](https://github.com/myanmarpeopletaskforce/myanmarpeopletaskforce.guithub.io/pulls)!
