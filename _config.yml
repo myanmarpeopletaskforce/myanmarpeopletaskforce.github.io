@@ -1,0 +1,51 @@
+title: Myanmar People Taskforce
+description: Yellow pages for Myanmar military coup
+author: Myanmar People Taskforce
+github: https://github.com/myanmarpeopletaskforce
+about: 
+disqus_shortname: mmcoup_yellowpages
+google_analytics: G-5M4F3VS31D
+
+enableTags: true
+tagarray: []
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "#"
+    - icon: fa-linkedin
+      link: "#"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/myanmarpeopletaskforce"
+
+share:
+  twitter_username: github.io
+  fb_appid: xx
+
+urls:
+    - text: About
+      url: /about/
+    - text: Category
+      url: /category/start
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://myanmarpeopletaskforce.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
