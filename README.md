@@ -63,7 +63,7 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 
 ```
 bundle install
-jekyll serve
+bundle exec jekyll serve
 ```
 
 ### Contributing
