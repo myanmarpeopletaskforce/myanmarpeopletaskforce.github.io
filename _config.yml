@@ -3,7 +3,8 @@ description: Yellow pages for Myanmar military coup
 author: Myanmar People Taskforce
 github: https://github.com/myanmarpeopletaskforce
 about: 
-disqus_shortname: mmcoup_yellowpages
+disqus:
+  shortname: mmcoup_yellowpages
 google_analytics: G-5M4F3VS31D
 
 enableTags: true
