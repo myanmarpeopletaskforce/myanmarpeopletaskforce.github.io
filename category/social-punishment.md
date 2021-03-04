@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: socialpunishment
+categories: social-punishment
 title: Social Punishment
 permalink: /category/social-punishment
 ---
