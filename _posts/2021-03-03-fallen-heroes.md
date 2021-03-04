@@ -2,7 +2,7 @@
 layout: post
 title:  "Fallen Heroes"
 date:   2021-03-03 +0800
-categories: [fallen-heroes, summary]
+categories: [fallen-heroes]
 ---
 # ရရှိရသည့် ကျဆုံး စာရင်း
 ------------------------
