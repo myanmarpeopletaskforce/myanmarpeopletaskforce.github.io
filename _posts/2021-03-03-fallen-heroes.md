@@ -4,7 +4,9 @@ title:  "Fallen Heroes"
 date:   2021-03-03 +0800
 categories: [fallen-heroes, summary]
 ---
-Updated: [Source from RFA](https://www.rfa.org/burmese/news/death-coup-myanmar-nationwide-03032021120248.html)
+# ရရှိရသည့် ကျဆုံး စာရင်း
+------------------------
+Source: [RFA](https://www.rfa.org/burmese/news/death-coup-myanmar-nationwide-03032021120248.html)
 ```
 မတ်လ ၃ ရက်နေ့ ဒီကနေ့ ဆန္ဒပြပွဲအတွင်း စစ်တပ်နဲ့ ရဲတပ်ဖွဲ့က အကြမ်းဖက် ပစ်ခတ်မှုကြောင့် တစ်နိုင်ငံလုံးက သေဆုံးတဲ့သူ ၂၆ ဦးထက်မနည်း ရှိခဲ့တယ်လို့ RFA က ကနဦး အတည်ပြုချက် ရရှိထားပါတယ်။
 
@@ -23,9 +25,7 @@ Updated: [Source from RFA](https://www.rfa.org/burmese/news/death-coup-myanmar-n
 သေဆုံးသွားသူ အားလုံးဟာ စစ်တပ်နဲ့ ရဲတပ်ဖွဲ့က အကြမ်းဖက် ပစ်ခတ်မှုကြောင့် ဦးခေါင်းနဲ့ ဝမ်းဗိုက်တွေမှာ ကျည်ဆံထိမှန်ပြီး ပွဲချင်းပြီး သေဆုံးသွားတာပါ။
 
 ```
-# ရရှိရသည့် ကျဆုံး စာရင်း
-------------------------
- 
+Source: [Mratt Kyaw Thu Telegram Channel](https://t.me/mrattkyawthu)
 ```
 [19:43 PM] ထိ
 ရန်ကုန် (မြောက်ဥက္ကလာ) - ၆
