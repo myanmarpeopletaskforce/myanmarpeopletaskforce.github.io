@@ -4,8 +4,10 @@ title:  "Social Punishment - နန်းလင်းလဲ့ဦး"
 date:   2021-03-05 +0800
 categories: [social-punishment]
 ---
-```
+
 [Source](https://www.facebook.com/100010531689167/posts/1341482129546164)
+
+```
 Name: နန်းလင်းလဲ့ဦး
 (Daughter of Major General Kyaw Swar Lin)
 TOYO university (International studies department) third year
